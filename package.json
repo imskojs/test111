@@ -1,0 +1,22 @@
+{
+  "name": "git1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imskojs/test111.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imskojs/test111/issues"
+  },
+  "homepage": "https://github.com/imskojs/test111#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
